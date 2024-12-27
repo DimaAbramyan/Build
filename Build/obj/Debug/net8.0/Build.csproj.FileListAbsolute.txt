@@ -1,0 +1,29 @@
+C:\Users\Dima\source\repos\Build\Build\bin\Debug\net8.0\Build.exe
+C:\Users\Dima\source\repos\Build\Build\bin\Debug\net8.0\Build.deps.json
+C:\Users\Dima\source\repos\Build\Build\bin\Debug\net8.0\Build.runtimeconfig.json
+C:\Users\Dima\source\repos\Build\Build\bin\Debug\net8.0\Build.dll
+C:\Users\Dima\source\repos\Build\Build\bin\Debug\net8.0\Build.pdb
+C:\Users\Dima\source\repos\Build\Build\obj\Debug\net8.0\Build.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\source\repos\Build\Build\obj\Debug\net8.0\Build.AssemblyInfoInputs.cache
+C:\Users\Dima\source\repos\Build\Build\obj\Debug\net8.0\Build.AssemblyInfo.cs
+C:\Users\Dima\source\repos\Build\Build\obj\Debug\net8.0\Build.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\Build\Build\obj\Debug\net8.0\Build.dll
+C:\Users\Dima\source\repos\Build\Build\obj\Debug\net8.0\refint\Build.dll
+C:\Users\Dima\source\repos\Build\Build\obj\Debug\net8.0\Build.pdb
+C:\Users\Dima\source\repos\Build\Build\obj\Debug\net8.0\Build.genruntimeconfig.cache
+C:\Users\Dima\source\repos\Build\Build\obj\Debug\net8.0\ref\Build.dll
+C:\Users\Dima\OneDrive - Южный Федеральный Университет\Рабочий стол\ReposForPI\Build\Build\obj\Debug\net8.0\Build.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\OneDrive - Южный Федеральный Университет\Рабочий стол\ReposForPI\Build\Build\obj\Debug\net8.0\Build.AssemblyInfoInputs.cache
+C:\Users\Dima\OneDrive - Южный Федеральный Университет\Рабочий стол\ReposForPI\Build\Build\obj\Debug\net8.0\Build.AssemblyInfo.cs
+C:\Users\Dima\OneDrive - Южный Федеральный Университет\Рабочий стол\ReposForPI\Build\Build\obj\Debug\net8.0\Build.csproj.CoreCompileInputs.cache
+C:\Users\Dima\OneDrive - Южный Федеральный Университет\Рабочий стол\ReposForPI\Build\Build\obj\Debug\net8.0\Build.sourcelink.json
+C:\Users\Dima\OneDrive - Южный Федеральный Университет\Рабочий стол\ReposForPI\Build\Build\obj\Debug\net8.0\Build.dll
+C:\Users\Dima\OneDrive - Южный Федеральный Университет\Рабочий стол\ReposForPI\Build\Build\obj\Debug\net8.0\refint\Build.dll
+C:\Users\Dima\OneDrive - Южный Федеральный Университет\Рабочий стол\ReposForPI\Build\Build\obj\Debug\net8.0\Build.pdb
+C:\Users\Dima\OneDrive - Южный Федеральный Университет\Рабочий стол\ReposForPI\Build\Build\bin\Debug\net8.0\Build.exe
+C:\Users\Dima\OneDrive - Южный Федеральный Университет\Рабочий стол\ReposForPI\Build\Build\bin\Debug\net8.0\Build.deps.json
+C:\Users\Dima\OneDrive - Южный Федеральный Университет\Рабочий стол\ReposForPI\Build\Build\bin\Debug\net8.0\Build.runtimeconfig.json
+C:\Users\Dima\OneDrive - Южный Федеральный Университет\Рабочий стол\ReposForPI\Build\Build\bin\Debug\net8.0\Build.dll
+C:\Users\Dima\OneDrive - Южный Федеральный Университет\Рабочий стол\ReposForPI\Build\Build\bin\Debug\net8.0\Build.pdb
+C:\Users\Dima\OneDrive - Южный Федеральный Университет\Рабочий стол\ReposForPI\Build\Build\obj\Debug\net8.0\Build.genruntimeconfig.cache
+C:\Users\Dima\OneDrive - Южный Федеральный Университет\Рабочий стол\ReposForPI\Build\Build\obj\Debug\net8.0\ref\Build.dll
