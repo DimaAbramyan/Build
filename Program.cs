@@ -16,5 +16,7 @@ class Program
         Debug.Assert(Func(a) == 90);
         a = 2;
         Debug.Assert(Func(a) == 2);
+
+        Debug.Assert(false);
     }
 }
